@@ -81,7 +81,7 @@
 				d.getHours(),
 				d.getMinutes(),
 				d.getSeconds(),
-				d.getMilliseconds(),
+				d.getMilliseconds()
 			)
 			d = clamp(d, min, max)
 		}
@@ -140,8 +140,8 @@
 				browseDate.getHours(),
 				browseDate.getMinutes(),
 				browseDate.getSeconds(),
-				browseDate.getMilliseconds(),
-			),
+				browseDate.getMilliseconds()
+			)
 		)
 	}
 
